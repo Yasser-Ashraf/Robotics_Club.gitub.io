@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Robotics Club
 
-You can use the [editor on GitHub](https://github.com/Yasser-Ashraf/Robotics_Club.gitub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Club Vision
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The vision of the Robotics Club is to inspire students to participate in competitions,
+enrich their academic experience, knowledge and practical skills in the robotics field, linking
+between the theoretical and practical studies with industrial relevance.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Club Mission
+
+The Robotics Club aims at providing unique, challenging learning environments that
+inspires E-JUST students to apply and improve their science, technology, engineering, and math
+skills. By a series of learning sessions, workshops, events and seminars, we aim to keep up with
+the frontiers in robotics field, and to organize and join competitions.
 
 ```markdown
 Syntax highlighted code block
